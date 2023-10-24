@@ -32,4 +32,10 @@ You can find the documentation for Dabble [here](https://ai.thestempedia.com/doc
 
 ## CAD
 
+You can find the CAD files [Here](CAD)
 
+The pictures also shows the L982N drivers and the motors. However, these models are not made by me, so I will not post them here.
+
+
+![](Pictures/aPicture.png)
+![](Pictures/AnotherPicture.png)
