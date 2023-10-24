@@ -15,7 +15,7 @@ For a good explanation I suggest watching this youtube video: youtube.com/watch?
 
 ## BoM
 
-Tldr: ~84€ on Aliexpress
+Tldr: ~91€ on Aliexpress
 
 [Here is the BoM](BoM.xlsx)
 
