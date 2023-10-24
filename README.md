@@ -17,15 +17,19 @@ For a good explanation I suggest watching this youtube video: youtube.com/watch?
 
 Tldr: ~84€ on Aliexpress
 
+[Here is the BoM](BoM.xlsx)
 
 ## Circut diagram
+The ESP32 used in this diagram is different to the one I used. 
+The pin positions are the same though. In the BoM I have linked the right one.
+
+![](schematic/Schematics.png)
 
 ## Code
+
+You can find the documentation for Dabble [here](https://ai.thestempedia.com/docs/dabble-app/gamepad-module/)
 
 
 ## CAD
 
-
-
-## Modifications
 
